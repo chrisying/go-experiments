@@ -7,8 +7,8 @@ Just random programs that I decided to write to practice Go while doing somethin
 
 * edgedetect: an attempt a basic edge detection with a matrix map and a filter step
 
----
+* hellonet: hello world for client/server connections via net package
 
-My style might not be entirely correct, I don't like gofmt's convention of 4 space indentation.
+---
 
 © Chris Ying 2015
